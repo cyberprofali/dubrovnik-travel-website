@@ -19,3 +19,6 @@ View the live website using the link provided in the About section of this repos
 
 ## Author
 Tyler Glenn
+
+### Notes 9/12
+Nice, is there anything else besides HTML that you will be using?
